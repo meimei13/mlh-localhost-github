@@ -57,6 +57,8 @@ Marikostinovo, Bulgaria
 Pune, India
 Tulsa, Oklahoma
 Queens, Ny
+Taipei, Taiwan
+Toucheng, Taiwan
 Bavaria, Germany
 Jamaica, New York
 Ambato, Ecuador
@@ -245,3 +247,4 @@ Prayagraj, Uttarpradesh, India
 Haryana, India
 South Extension, New Delhi, India
 Karraikudi, Tamil Nadu
+NYC, NY
